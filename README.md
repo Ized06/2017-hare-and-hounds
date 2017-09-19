@@ -1,4 +1,4 @@
-This is forked by Ized06 in Problem 2.5 in home work Git and Requirement.
+Problem 2.5 in home work Git and Requirement: This is forked by Ized06(JHED:zxiao10).
 
 This is the custom front-end for your hare-and-hounds game.
 
